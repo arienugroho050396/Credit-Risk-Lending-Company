@@ -1,5 +1,2 @@
 # Credit-Risk-Lending-Company
- 
- 
- 
- 
+  
